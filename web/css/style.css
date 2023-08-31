@@ -1,0 +1,48 @@
+body{
+    padding:40px 0;
+    color: #796f6f;
+}
+
+.form-login{
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+    padding: 15px;
+}
+
+.form-login input{
+    max-width: 500px;
+    margin: auto;
+    height: 50px;
+}
+
+.btn{
+    height: 50px;
+}
+
+.form-time-table{
+    width: 90%;
+    margin: auto;
+    padding: 15px;
+}
+
+.form-time-table select{
+    max-width: 200px;
+    height: 50px;
+}
+
+.model-footer{
+    justify-content: center;   
+}
+
+.model-header .close{
+    padding: 0;
+    margin: 0;
+}
+
+.form-user-list{
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+    padding: 15px;
+}
