@@ -17,3 +17,9 @@ https://blog.senseshare.jp/category/develop/
 - user_list.php：ユーザ一覧表示画面
 - user_result.php：選択したユーザの日報月別リスト表示画面
 
+その他ファイルについて
+
+- config/config.php：データベースへの認証情報などが記載。今はテスト環境でのパスワードなどが入っている
+- lib/encrypt.php：任意の文字列を暗号化、復号するための関数。キーは消してある
+- web/
+
