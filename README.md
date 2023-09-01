@@ -4,7 +4,8 @@
 【開発実況シリーズ】Web日報登録システムを作る
 
 https://blog.senseshare.jp/category/develop/
-　
+
+
 一般ユーザ用ファイルは『web』フォルダ
 
 - login.php：一般ユーザのログイン画面
