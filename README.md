@@ -20,6 +20,11 @@ https://blog.senseshare.jp/category/develop/
 その他ファイルについて
 
 - config/config.php：データベースへの認証情報などが記載。今はテスト環境でのパスワードなどが入っている
-- lib/encrypt.php：任意の文字列を暗号化、復号するための関数。キーは消してある
-- web/
+- lib/crypt.php：任意の文字列を暗号化、復号するための関数。キーは消してある
+- css/style.css：スタイルを定義したファイル
+- templates/head_tag.php：htmlのheadタグを共通関数化したもの
+- encrypt.php：テスト用ユーザの暗号化に使用したファイル
+- error.php：エラーが起きた際に遷移する画面
+- functions.php：共通関数をまとめたもの
+- logout.php：認証を切るもの。login.phpへ遷移する
 
