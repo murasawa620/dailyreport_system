@@ -1,10 +1,6 @@
 # dailyreport_system
 
-参考資料
-【開発実況シリーズ】Web日報登録システムを作る
-
-https://blog.senseshare.jp/category/develop/
-
+日報登録・管理用のwebシステム
 
 一般ユーザ用ファイルは『web』フォルダ
 
@@ -29,3 +25,7 @@ https://blog.senseshare.jp/category/develop/
 - logout.php：認証を切るもの。login.phpへ遷移する
 
 
+参考資料
+【開発実況シリーズ】Web日報登録システムを作る
+
+https://blog.senseshare.jp/category/develop/
