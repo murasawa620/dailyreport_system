@@ -15,7 +15,7 @@
 
 その他ファイルについて
 
-- config/config.php：データベースへの認証情報などが記載。今はテスト環境でのパスワードなどが入っている
+- config/config.php：データベースへの認証情報
 - lib/crypt.php：任意の文字列を暗号化、復号するための関数。キーは消してある
 - css/style.css：スタイルを定義したファイル
 - templates/head_tag.php：htmlのheadタグを共通関数化したもの
